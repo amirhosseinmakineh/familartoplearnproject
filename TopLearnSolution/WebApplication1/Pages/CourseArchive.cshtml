@@ -1,0 +1,313 @@
+﻿@page
+@using Toplearn.ApplicationService.Contract.Dtos;
+@using Toplearn.ApplicationService.Contract.IService;
+@using static Toplearn.ApplicationService.Services.MainPageService;
+@model WebApplication1.Pages.CourseArchiveModel
+@{
+}
+@*<link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="/css/bootstrap-rtl.min.css">
+<link rel="stylesheet" type="text/css" href="/css/material-design-iconic-font.min.css">
+<link rel="stylesheet" type="text/css" href="/css/style.css">
+<div class="container">
+    <nav aria-label="breadcrumb">
+        <ul class="breadcrumb">
+            <li class="breadcrumb-item"><a href="#">تاپ لرن</a></li>
+            <li class="breadcrumb-item active"><a href="#">دوره ها</a></li>
+            <li class="breadcrumb-item active" aria-current="page"> برنامه نویسی وب </li>
+        </ul>
+    </nav>
+    <form method="get">
+        <div>
+            <div class="input">
+                <input type="text" name="courseTitle" placeholder="موضوع مورد نظر ...">
+                <button><i class="zmdi zmdi-search"></i></button>
+            </div>
+        </div>
+        <div>
+            <div class="switch-field available">
+                <input id="all" name="state" value="all" checked="" type="radio">
+                <label for="all"> همه </label>
+                <input id="buy" name="state" value="buy" type="radio">
+                <label for="buy"> خریدنی </label>
+                <input id="free" name="state" value="free" type="radio">
+                <label for="free"> رایگان </label>
+            </div>
+        </div>
+        <div class="orderby">
+            <select name="order">
+                <option>مرتب سازی بر اساس </option>
+                <option value="order">مرتب سازی بر اساس تاریخ </option>
+                <option value="order">مرتب سازی بر اساس عنوان</option>
+                <option value="order">مرتب سازی بر اساس قیمت </option>
+            </select>
+        </div>
+    </form>
+</div>
+<div class="col-lg-9 col-md-8 col-sm-12 col-xs-12">
+
+    <section class="terms-items">
+        <main id="home-page">
+            <div class="container">
+                <section class="terms-items">
+                    <header>
+                        <h2> آخرین دوره های تاپ لرن </h2>
+                        <a href=""> مشاهده همه دوره ها </a>
+                    </header>
+                    <div class="row">
+                        @foreach (var course in Model.dto.Courses)
+                        {
+                            <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 term-col">
+                                <article>
+                                    <a href="" class="img-layer"><img style="height: 150px" src="/CourseImage/@course.CourseAvatar"></a>
+                                    <h2><a href=""> @course.Title </a></h2>
+                                    <span>@((course.Price == 0) ? "رایگان" : course.Price.ToString("#,0"))</span>
+                                      <i>@course.CourseDuration</i>
+                                </article>
+                            </div>
+                        }
+                    </div>
+                </section>
+            </div>
+        </main>
+
+        @if (Model.Item2 > 1)
+        {
+            <nav aria-label="Page navigation">
+                <ul class="pagination justify-content-center">
+
+                    @for (int i = 1; i <= (int)Model.Item2; i++)
+                    {
+                        <li class="page-item"><a class="page-link" onclick="changePage(@i)" href="#">@i</a></li>
+
+                    }
+                </ul>
+            </nav>
+        }
+
+    </section>
+
+</div>
+</div> *@
+@* @section Scripts{
+    <script src="/css/noUiSlider/nouislider.min.js"></script>
+    <script src="/js/script.js"></script>
+    <script type="text/javascript">
+
+        function changePage(pageid) {
+            $("#pageid").val(pageid);
+            $("#formFilter").submit();
+        }
+
+        $(function () {
+
+            var slider = document.getElementById('priceFilter');
+            noUiSlider.create(slider, {
+                start: [20000, 100000],
+                step: 5000,
+                connect: true,
+                direction: 'rtl',
+                range: {
+                    'min': 20000,
+                    'max': 100000
+                }
+            });
+
+            var marginMin = document.getElementById('min-text'),
+                marginMax = document.getElementById('max-text');
+
+            slider.noUiSlider.on('update', function (values, handle) {
+                var xvalue = Math.round(values[handle]);
+                if (handle) {
+                    marginMax.innerHTML = xvalue;
+                } else {
+                    marginMin.innerHTML = xvalue;
+                }
+                //console.log(values[handle]);
+            });
+
+            slider.noUiSlider.on('change', function (values, handle) {
+                var xvalue = Math.round(values[handle]);
+                if (handle) {
+                    // setGetParameter('max_price', xvalue);
+                    $('#max-value').val(xvalue);
+                } else {
+                    // setGetParameter('min_price', xvalue);
+                    $('#min-value').val(xvalue);
+                }
+            });
+
+
+            slider.noUiSlider.on('slide', function (values, handle) {
+
+                console.log(values[0]);
+                console.log(values[1]);
+
+                var xvalue = Math.round(values[handle]);
+                //updateSliderRange( Math.round(values[0]), Math.round(values[1]) );
+            });
+
+
+
+            function updateSliderRange(min, max) {
+                slider.noUiSlider.updateOptions({
+                    range: {
+                        'min': min,
+                        'max': max
+                    }
+                });
+            }
+        });
+
+        function changeGroup() {
+            $("#formFilter").submit();
+        }
+    </script>
+} *@
+<style>
+    .row {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .filter {
+        display: flex;
+        width: 100%;
+    }
+
+        .filter .filterbysearch {
+            width: 50%;
+            text-align: center;
+        }
+
+            .filter .filterbysearch .input-group {
+                display: flex;
+                position: relative;
+            }
+
+                .filter .filterbysearch .input-group input {
+                    width: 400px;
+                    margin: 0 100px;
+                }
+
+                .filter .filterbysearch .input-group button {
+                    margin-left: 100px;
+                    position: absolute;
+                    left: 110px;
+                }
+
+        .filter .filterbyprice {
+            width: 50%;
+            text-align: center;
+        }
+
+        .filter .filterbyorder {
+            width: 50%;
+            text-align: center;
+        }
+        .filter form .form{
+            display:flex;
+            width:100%;
+        }
+
+     .sidebar {
+        width: 50%;
+        text-align: center;
+    }
+
+     .courses {
+        width: 50%;
+        text-align: center;
+    }
+</style>
+<header>
+    <div class="filter">
+        <div class="col filterbysearch">
+            <div class="input-group d-flex">
+                <form method="get">
+                    <input type="search" class="form-control" placeholder="CourseName" aria-label="Username" aria-describedby="addon-wrapping" name="courseTitle">
+                    <button class="btn btn-success">Search</button>
+                </form>
+            </div>
+        </div>
+        <form method="get">
+            <div class="form">
+            <div class="col filterbyprice " style="display:flex;">
+                <div class="form-check form-check-inline" style="margin-left:20px;">
+                    <input class="form-check-input" type="radio" value="all" name="state">
+                    <label class="form-check-label" for="all">همه</label>
+                </div>
+                <div class="form-check form-check-inline" style="margin-left:20px;">
+                    <input class="form-check-input" type="checkbox" value="free" name="state">
+                    <label class="form-check-label" for="free">رایگان</label>
+                </div>
+                <div class="form-check form-check-inline" style="margin-left:20px;">
+                    <input class="form-check-input" type="checkbox"  value="buy" name="state">
+                    <label class="form-check-label" for="buy">خریدنی</label>
+                </div>
+            </div>
+            <div class="col filterbyorder">
+                <div class="orderby">
+                    <select name="order">
+                        <option>مرتب سازی بر اساس </option>
+                            <option value="dateTime">مرتب سازی بر اساس تاریخ </option>
+                        <option value="title">مرتب سازی بر اساس عنوان</option>
+                        <option value="Price">مرتب سازی بر اساس قیمت </option>
+                    </select>
+                </div>
+            </div>
+            </div>
+            <button style="display:inline" value="جستجو بر اساس قیمت و زمان" class="btn btn-info">جستجو بر اساس قیمت و زمان</button>
+        </form>
+    </div>
+</header>
+    <div class="row">
+        <div class="sidebar">
+            <section class="aside-section filter-by-category">
+                <header>
+                    <h3> دسته بندی موضوعات </h3>
+                </header>
+                <div class="inner">
+                    <form method="get">
+                    <ul>
+                        @foreach (var group in Model.dto.HeadCategory.Where(g => g.ParentId == null))
+                        {
+                            <li>
+                                    <input type="checkbox" name="selectedGroups" value="@group.Id" id="cat-1">
+                                <label for="cat-1"> @group.TiTle </label>
+                                    <ul>
+                                        @foreach (var sub in Model.dto.SubCategory)
+                                        {
+                                            <li>
+                                                    <input type="checkbox" name="selectedGroups" value="@sub.Id" id="cat-1">
+                                                <label for="cat-1"> @sub.TiTle </label>
+                                            </li>
+                                        }
+                                    </ul>
+
+                            </li>
+                        }
+                    </ul>
+                    <button class="btn btn-success">فیلتر بر اساس دسته بندی </button>
+                    </form>
+                </div>
+            </section>
+        </div>
+        <main id="home-page">
+        <div class="container">
+            <section class="terms-items">
+                        @foreach (var course in Model.dto.Courses)
+                        {
+                            <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 term-col">
+                                <article>
+                                    <a href="" class="img-layer"><img style="height: 150px" src="/CourseImage/@course.CourseAvatar"></a>
+                                    <h2><a href=""> @course.Title </a></h2>
+                                    <span>@((course.Price == 0) ? "رایگان" : course.Price.ToString("#,0"))</span>
+                                    @* <i>@course.CourseDuration</i> *@
+                                </article>
+                            </div>
+                        }
+                </section>
+            </div>
+        </main>
+    </div>

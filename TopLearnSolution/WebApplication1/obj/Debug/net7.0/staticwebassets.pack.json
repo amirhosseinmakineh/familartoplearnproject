@@ -1,0 +1,833 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication1.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\blank.html",
+      "PackagePath": "staticwebassets\\AdminContent\\blank.html"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\buttons.html",
+      "PackagePath": "staticwebassets\\AdminContent\\buttons.html"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\css\\bootstrap-rtl.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\bootstrap-rtl.css"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\css\\plugins\\dataTables\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\plugins\\dataTables\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\css\\plugins\\morris\\morris-0.4.3.min.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\plugins\\morris\\morris-0.4.3.min.css"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\css\\plugins\\social-buttons\\social-buttons.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\plugins\\social-buttons\\social-buttons.css"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\css\\plugins\\timeline\\timeline.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\plugins\\timeline\\timeline.css"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\css\\sb-admin.css",
+      "PackagePath": "staticwebassets\\AdminContent\\css\\sb-admin.css"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\flot.html",
+      "PackagePath": "staticwebassets\\AdminContent\\flot.html"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\font-awesome\\less\\spinning.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\spinning.less"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\font-awesome\\scss\\_spinning.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_spinning.scss"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\AdminContent\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\AdminContent\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\AdminContent\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\AdminContent\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\AdminContent\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\forms.html",
+      "PackagePath": "staticwebassets\\AdminContent\\forms.html"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\grid.html",
+      "PackagePath": "staticwebassets\\AdminContent\\grid.html"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\index.html",
+      "PackagePath": "staticwebassets\\AdminContent\\index.html"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\js\\demo\\dashboard-demo.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\demo\\dashboard-demo.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\js\\demo\\flot-demo.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\demo\\flot-demo.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\js\\demo\\morris-demo.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\demo\\morris-demo.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\js\\jquery-1.10.2.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\jquery-1.10.2.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\js\\plugins\\dataTables\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\dataTables\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\js\\plugins\\dataTables\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\dataTables\\jquery.dataTables.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\js\\plugins\\flot\\excanvas.min.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\flot\\excanvas.min.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\js\\plugins\\flot\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\flot\\jquery.flot.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\js\\plugins\\flot\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\flot\\jquery.flot.pie.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\js\\plugins\\flot\\jquery.flot.resize.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\flot\\jquery.flot.resize.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\js\\plugins\\flot\\jquery.flot.tooltip.min.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\flot\\jquery.flot.tooltip.min.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\js\\plugins\\metisMenu\\jquery.metisMenu.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\metisMenu\\jquery.metisMenu.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\js\\plugins\\morris\\morris.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\morris\\morris.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\js\\plugins\\morris\\raphael-2.1.0.min.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\plugins\\morris\\raphael-2.1.0.min.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\js\\sb-admin.js",
+      "PackagePath": "staticwebassets\\AdminContent\\js\\sb-admin.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\login.html",
+      "PackagePath": "staticwebassets\\AdminContent\\login.html"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\morris.html",
+      "PackagePath": "staticwebassets\\AdminContent\\morris.html"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\notifications.html",
+      "PackagePath": "staticwebassets\\AdminContent\\notifications.html"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\panels-wells.html",
+      "PackagePath": "staticwebassets\\AdminContent\\panels-wells.html"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\tables.html",
+      "PackagePath": "staticwebassets\\AdminContent\\tables.html"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\AdminContent\\typography.html",
+      "PackagePath": "staticwebassets\\AdminContent\\typography.html"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\CourseEpisod\\Rec 0001.mp4",
+      "PackagePath": "staticwebassets\\CourseEpisod\\Rec 0001.mp4"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\CourseEpisod\\Rec 0002.mp4",
+      "PackagePath": "staticwebassets\\CourseEpisod\\Rec 0002.mp4"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\CourseEpisod\\Rec 0005.mp4",
+      "PackagePath": "staticwebassets\\CourseEpisod\\Rec 0005.mp4"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\CourseEpisod\\Rec 0007.mp4",
+      "PackagePath": "staticwebassets\\CourseEpisod\\Rec 0007.mp4"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\CourseEpisod\\Rec 0008.mp4",
+      "PackagePath": "staticwebassets\\CourseEpisod\\Rec 0008.mp4"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\CourseEpisod\\Rec 0011.mp4",
+      "PackagePath": "staticwebassets\\CourseEpisod\\Rec 0011.mp4"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\CourseImage\\32.jpg",
+      "PackagePath": "staticwebassets\\CourseImage\\32.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\CourseImage\\34.jpg",
+      "PackagePath": "staticwebassets\\CourseImage\\34.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\CourseImage\\892.jpg",
+      "PackagePath": "staticwebassets\\CourseImage\\892.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\CourseImage\\آموزش_ASP.NET_MVC_به_همراه_پروژه_عملی_مخصوص_ناشنوایان.jpg",
+      "PackagePath": "staticwebassets\\CourseImage\\آموزش_ASP.NET_MVC_به_همراه_پروژه_عملی_مخصوص_ناشنوایان.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\CourseImage\\آموزش_domain_driven_design_(ddd)_در_.net.jpg",
+      "PackagePath": "staticwebassets\\CourseImage\\آموزش_domain_driven_design_(ddd)_در_.net.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\CourseImage\\آموزش_ساخت_یک_پروژه_با_asp.net_core_و_react (1).jpg",
+      "PackagePath": "staticwebassets\\CourseImage\\آموزش_ساخت_یک_پروژه_با_asp.net_core_و_react (1).jpg"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\CourseImage\\آموزش_ساخت_یک_پروژه_با_asp.net_core_و_react (2).jpg",
+      "PackagePath": "staticwebassets\\CourseImage\\آموزش_ساخت_یک_پروژه_با_asp.net_core_و_react (2).jpg"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\CourseImage\\آموزش_ساخت_یک_پروژه_با_asp.net_core_و_react.jpg",
+      "PackagePath": "staticwebassets\\CourseImage\\آموزش_ساخت_یک_پروژه_با_asp.net_core_و_react.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\CourseImage\\آموزش_فشرده_سازی_صفحات_سایت_در_MVC.jpg",
+      "PackagePath": "staticwebassets\\CourseImage\\آموزش_فشرده_سازی_صفحات_سایت_در_MVC.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\CourseImage\\آموزش_پروژه_محور_ساخت_وبسایت_خبری_با_asp.net_core.jpg",
+      "PackagePath": "staticwebassets\\CourseImage\\آموزش_پروژه_محور_ساخت_وبسایت_خبری_با_asp.net_core.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\CourseImage\\استفاده_از_Web_Api_در_MVC.jpg",
+      "PackagePath": "staticwebassets\\CourseImage\\استفاده_از_Web_Api_در_MVC.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\CourseImage\\استفاده_از_قالب_های_آماده_در_MVC.jpg",
+      "PackagePath": "staticwebassets\\CourseImage\\استفاده_از_قالب_های_آماده_در_MVC.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\CourseImage\\دوره__Asp.Net_MVC_پیشرفته.jpg",
+      "PackagePath": "staticwebassets\\CourseImage\\دوره__Asp.Net_MVC_پیشرفته.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\CourseImage\\دوره_جامع_آموزش_grpc_در_asp.net_core2 (1).jpg",
+      "PackagePath": "staticwebassets\\CourseImage\\دوره_جامع_آموزش_grpc_در_asp.net_core2 (1).jpg"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\CourseImage\\دوره_جامع_آموزش_grpc_در_asp.net_core2.jpg",
+      "PackagePath": "staticwebassets\\CourseImage\\دوره_جامع_آموزش_grpc_در_asp.net_core2.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\DemoFile\\892.jpg",
+      "PackagePath": "staticwebassets\\DemoFile\\892.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\DemoFile\\Rec 0001.mp4",
+      "PackagePath": "staticwebassets\\DemoFile\\Rec 0001.mp4"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\DemoFile\\Rec 0002.mp4",
+      "PackagePath": "staticwebassets\\DemoFile\\Rec 0002.mp4"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\DemoFile\\Rec 0005.mp4",
+      "PackagePath": "staticwebassets\\DemoFile\\Rec 0005.mp4"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\DemoFile\\Rec 0011.mp4",
+      "PackagePath": "staticwebassets\\DemoFile\\Rec 0011.mp4"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\DemoFile\\islamic-new-year-decoration-with-traditional-food-quran (1).webp",
+      "PackagePath": "staticwebassets\\DemoFile\\islamic-new-year-decoration-with-traditional-food-quran (1).webp"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\UserAvatar\\33.jpg",
+      "PackagePath": "staticwebassets\\UserAvatar\\33.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\UserAvatar\\34.jpg",
+      "PackagePath": "staticwebassets\\UserAvatar\\34.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\UserAvatar\\892.jpg",
+      "PackagePath": "staticwebassets\\UserAvatar\\892.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\UserAvatar\\dto.Avatar",
+      "PackagePath": "staticwebassets\\UserAvatar\\dto.Avatar"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\css\\CustomCss.css",
+      "PackagePath": "staticwebassets\\css\\CustomCss.css"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\css\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\css\\fonts\\BYekan-webfont.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\BYekan-webfont.eot"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\css\\fonts\\BYekan-webfont.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\BYekan-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\css\\fonts\\BYekan-webfont.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\BYekan-webfont.woff"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\css\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\images\\pattern.png",
+      "PackagePath": "staticwebassets\\images\\pattern.png"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\images\\pic\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\1.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\images\\pic\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\2.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\images\\pic\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\3.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\images\\pic\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\4.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\images\\pic\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\5.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\images\\pic\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\6.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\images\\pic\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\7.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\images\\pic\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\8.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\images\\pic\\avatar.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\avatar.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\images\\pic\\big-thumb.jpg",
+      "PackagePath": "staticwebassets\\images\\pic\\big-thumb.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\images\\pic\\namad-1.png",
+      "PackagePath": "staticwebassets\\images\\pic\\namad-1.png"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\images\\pic\\namad.png",
+      "PackagePath": "staticwebassets\\images\\pic\\namad.png"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\images\\slide.jpg",
+      "PackagePath": "staticwebassets\\images\\slide.jpg"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\js\\jquery.unobtrusive-ajax.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.unobtrusive-ajax.min.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\js\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\js\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\js\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\js\\modernizr-custom.js",
+      "PackagePath": "staticwebassets\\js\\modernizr-custom.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Backend\\toplearnAsp.NetCoreAdvance\\TopLearnSolution\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebApplication1.props",
+      "PackagePath": "build\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication1.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebApplication1.props",
+      "PackagePath": "buildTransitive\\WebApplication1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

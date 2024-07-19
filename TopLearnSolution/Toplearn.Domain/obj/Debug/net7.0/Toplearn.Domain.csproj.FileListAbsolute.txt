@@ -1,0 +1,11 @@
+D:\Backend\toplearnAsp.NetCoreAdvance\TopLearnSolution\Toplearn.Domain\bin\Debug\net7.0\Toplearn.Domain.deps.json
+D:\Backend\toplearnAsp.NetCoreAdvance\TopLearnSolution\Toplearn.Domain\bin\Debug\net7.0\Toplearn.Domain.dll
+D:\Backend\toplearnAsp.NetCoreAdvance\TopLearnSolution\Toplearn.Domain\bin\Debug\net7.0\Toplearn.Domain.pdb
+D:\Backend\toplearnAsp.NetCoreAdvance\TopLearnSolution\Toplearn.Domain\obj\Debug\net7.0\Toplearn.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\toplearnAsp.NetCoreAdvance\TopLearnSolution\Toplearn.Domain\obj\Debug\net7.0\Toplearn.Domain.AssemblyInfoInputs.cache
+D:\Backend\toplearnAsp.NetCoreAdvance\TopLearnSolution\Toplearn.Domain\obj\Debug\net7.0\Toplearn.Domain.AssemblyInfo.cs
+D:\Backend\toplearnAsp.NetCoreAdvance\TopLearnSolution\Toplearn.Domain\obj\Debug\net7.0\Toplearn.Domain.csproj.CoreCompileInputs.cache
+D:\Backend\toplearnAsp.NetCoreAdvance\TopLearnSolution\Toplearn.Domain\obj\Debug\net7.0\Toplearn.Domain.dll
+D:\Backend\toplearnAsp.NetCoreAdvance\TopLearnSolution\Toplearn.Domain\obj\Debug\net7.0\refint\Toplearn.Domain.dll
+D:\Backend\toplearnAsp.NetCoreAdvance\TopLearnSolution\Toplearn.Domain\obj\Debug\net7.0\Toplearn.Domain.pdb
+D:\Backend\toplearnAsp.NetCoreAdvance\TopLearnSolution\Toplearn.Domain\obj\Debug\net7.0\ref\Toplearn.Domain.dll

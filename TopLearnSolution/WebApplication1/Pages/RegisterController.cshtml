@@ -1,0 +1,73 @@
+﻿@page
+@model WebApplication1.Pages.RegisterControllerModel
+@{
+}
+<nav aria-label="breadcrumb">
+    <ul class="breadcrumb">
+        <li class="breadcrumb-item"><a href="/">تاپ لرن</a></li>
+        <li class="breadcrumb-item active" aria-current="page">عضویت در سایت</li>
+    </ul>
+</nav>
+<main class="client-page">
+    <div class="container-content">
+
+        <header><h2> عضویت در سایت </h2></header>
+
+        <div class="form-layer">
+
+            <form asp-action="Register" method="post">
+                <div class="input-group">
+                    <span class="input-group-addon" id="email-address"><i class="zmdi zmdi-email"></i></span>
+                    <input asp-for="dto.UserName" type="text" class="form-control" placeholder="نام کاربری " aria-describedby="email-address">
+                </div>
+                <div class="input-group">
+                    <span class="input-group-addon" id="email-address"><i class="zmdi zmdi-email"></i></span>
+                    <input asp-for="dto.Email" type="email" class="form-control" placeholder="ایمیل" aria-describedby="email-address">
+                </div>
+                <div class="input-group">
+                    <span class="input-group-addon" id="password"><i class="zmdi zmdi-lock"></i></span>
+                    <input asp-for="dto.Password" type="password" class="form-control" placeholder="رمز عبور " aria-describedby="password">
+                </div>
+
+                <div class="input-group">
+                    <span class="input-group-addon" id="password"><i class="zmdi zmdi-lock"></i></span>
+                    <input asp-for="dto.RePassword" type="password" class="form-control" placeholder="تکرار رمز عبور " aria-describedby="password">
+                </div>
+
+                <div class="link">
+                    <a href="/LoginUser"> <i class="zmdi zmdi-account"></i> ورود به سایت </a>
+                </div>
+                <div asp-validation-summary="All" class="text-danger">
+                </div>        
+                <button class="btn btn-success"> عضویت در سایت </button>
+            </form>
+        </div>
+</main>
+@section Scripts{
+    @if (TempData["IsExistEmail"] != null)
+    {
+        <script>
+            Swal.fire({
+                icon: "error",
+                title: "ایمیل وارد شده موجود میباشد",
+            });
+            setInterval(function () {
+                window.location.href = "/RegisterController",
+                    5000
+            });
+        </script>
+    }
+    @if (TempData["IsExistUserName"] != null)
+    {
+        <script>
+            Swal.fire({
+                icon: "error",
+                title: "نام کاربری  وارد شده موجود میباشد",
+            });
+            setInterval(function () {
+                window.location.href = "/RegisterController",
+                    5000
+            });
+        </script>
+    }
+}

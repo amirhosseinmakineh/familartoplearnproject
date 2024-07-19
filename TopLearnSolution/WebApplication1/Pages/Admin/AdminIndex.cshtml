@@ -1,0 +1,19 @@
+﻿@page
+@model WebApplication1.Pages.Admin.AdminIndexModel
+@{
+}
+@section Scripts {
+    @if (TempData["checkPermission"] != null)
+    {
+        <script>
+            setInterval(function () {
+                window.location.href = "http://localhost:5044/",
+                    5000
+            });
+            Swal.fire({
+                icon: "error",
+                title: "شما به این صفحه دسترسی ندارید",
+            });
+        </script>
+    }
+}

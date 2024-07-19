@@ -1,0 +1,17 @@
+D:\Backend\toplearnAsp.NetCoreAdvance\TopLearnSolution\Toplearn.InfraStructure\bin\Debug\net7.0\Toplearn.InfraStructure.deps.json
+D:\Backend\toplearnAsp.NetCoreAdvance\TopLearnSolution\Toplearn.InfraStructure\bin\Debug\net7.0\Toplearn.InfraStructure.dll
+D:\Backend\toplearnAsp.NetCoreAdvance\TopLearnSolution\Toplearn.InfraStructure\bin\Debug\net7.0\Toplearn.InfraStructure.pdb
+D:\Backend\toplearnAsp.NetCoreAdvance\TopLearnSolution\Toplearn.InfraStructure\obj\Debug\net7.0\Toplearn.InfraStructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\toplearnAsp.NetCoreAdvance\TopLearnSolution\Toplearn.InfraStructure\obj\Debug\net7.0\Toplearn.InfraStructure.AssemblyInfoInputs.cache
+D:\Backend\toplearnAsp.NetCoreAdvance\TopLearnSolution\Toplearn.InfraStructure\obj\Debug\net7.0\Toplearn.InfraStructure.AssemblyInfo.cs
+D:\Backend\toplearnAsp.NetCoreAdvance\TopLearnSolution\Toplearn.InfraStructure\obj\Debug\net7.0\Toplearn.InfraStructure.csproj.CoreCompileInputs.cache
+D:\Backend\toplearnAsp.NetCoreAdvance\TopLearnSolution\Toplearn.InfraStructure\obj\Debug\net7.0\Toplearn.InfraStructure.dll
+D:\Backend\toplearnAsp.NetCoreAdvance\TopLearnSolution\Toplearn.InfraStructure\obj\Debug\net7.0\refint\Toplearn.InfraStructure.dll
+D:\Backend\toplearnAsp.NetCoreAdvance\TopLearnSolution\Toplearn.InfraStructure\obj\Debug\net7.0\Toplearn.InfraStructure.pdb
+D:\Backend\toplearnAsp.NetCoreAdvance\TopLearnSolution\Toplearn.InfraStructure\obj\Debug\net7.0\ref\Toplearn.InfraStructure.dll
+D:\Backend\toplearnAsp.NetCoreAdvance\TopLearnSolution\Toplearn.InfraStructure\bin\Debug\net7.0\Toplearn.InfraStructure.runtimeconfig.json
+D:\Backend\toplearnAsp.NetCoreAdvance\TopLearnSolution\Toplearn.InfraStructure\bin\Debug\net7.0\Toplearn.Domain.dll
+D:\Backend\toplearnAsp.NetCoreAdvance\TopLearnSolution\Toplearn.InfraStructure\bin\Debug\net7.0\Toplearn.Domain.pdb
+D:\Backend\toplearnAsp.NetCoreAdvance\TopLearnSolution\Toplearn.InfraStructure\obj\Debug\net7.0\Toplearn.InfraStructure.csproj.AssemblyReference.cache
+D:\Backend\toplearnAsp.NetCoreAdvance\TopLearnSolution\Toplearn.InfraStructure\obj\Debug\net7.0\Toplearn.InfraStructure.csproj.CopyComplete
+D:\Backend\toplearnAsp.NetCoreAdvance\TopLearnSolution\Toplearn.InfraStructure\obj\Debug\net7.0\Toplearn.InfraStructure.genruntimeconfig.cache

@@ -1,0 +1,27 @@
+﻿@using Toplearn.ApplicationService.Contract.Dtos;
+@{
+    Layout = null;
+}
+@model CategoryDto
+<div class="main-menu">
+    <div class="container">
+        <nav>
+            <span class="responsive-sign"><i class="zmdi zmdi-menu"></i></span>
+            @foreach (var group in Model.HeadCategory.Where(x => x.ParentId == null))
+            {
+                <ul>
+                    <li>
+                        <a href="/courseArchive?TiTle=@group.TiTle"> @group.TiTle </a>
+                            <ul>
+                                @foreach (var sub in Model.SubCategory.Where(g => g.ParentId == group.Id))
+                                {
+                                    <li><a href="/courseArchive?@sub.TiTle"> @sub.TiTle </a></li>
+                                }
+                            </ul>
+                    </li>
+
+                </ul>
+            }
+        </nav>
+    </div>
+</div>

@@ -1,0 +1,96 @@
+﻿@using Toplearn.ApplicationService.Contract.Dtos.UserPannel;
+@{
+    Layout = "/Pages/Shared/_Layout.cshtml";
+}
+@model ShowOrderDto
+<div class="container">
+    <nav aria-label="breadcrumb">
+        <ul class="breadcrumb">
+            <li class="breadcrumb-item"><a href="/">تاپ لرن</a></li>
+            <li class="breadcrumb-item active" aria-current="page"> کیف پول شما </li>
+        </ul>
+    </nav>
+</div>
+
+<main>
+    <div class="container">
+        <div class="user-account">
+            <div class="row">
+                <partial name="_SideBar" />
+                <div class="col-md-9 col-sm-8 col-xs-12">
+                    <section class="user-account-content">
+                        <header><h1> کیف پول شما </h1></header>
+                        <div class="inner form-layer">
+                            <hr />
+                            <table class="table table-bordered">
+                                <tr>
+                                    <th>شرح فاکتور </th>
+                                    <th>وضعیت پرداخت</th>
+                                </tr>
+                                @if (Model.Orders != null)
+                                {
+                                    @foreach (var item in Model.Orders)
+                                    {
+                                        <tr>
+                                            <td>@item.CourseTitle</td>
+                                            @if (item.IsFinaly is true)
+                                            {
+                                                <td class="text-success">پرداخت شده </td>
+                                            }
+                                            else
+                                            {
+                                                <td><p class="text-danger">پرداخت نشده</p></td>
+                                            }
+                                        </tr>
+                                    }
+                                }
+                                else
+                                {
+                                    <h4 class="bg bg-warning">فاکتور بازی ندارید</h4>
+                                }
+                            </table>
+                            <div class="container" style="display:flex; justify-content:space-between">
+                                <div class="bg-black bg-info" style="width:350px;height:100px;">
+                                    <h2>مبلغ قابل پرداخت : @Model.OrderSum</h2>
+                                </div>
+                            </div>
+                            @if (TempData["IsCheck"] != null)
+                            {
+                                <div class="d-flex flex-column">
+                                    <div class="alert alert-warning">
+                                        مبلغ کیف پول شما از فاکتور شما کمتر است.
+                                        لطفا ابتدا کیف پول خود را شارژ کنید سپس اقدام به پرداخا فاکتور کنید
+                                    </div>
+                                    <a class="btn btn-success" href="/UserPannel/Payment/@Model.OrderSum">شارژ کیف پول </a>
+                                </div>
+                                <div class="btn">
+                                    <a class="btn btn-warning disabled" href="/UserPannel/ShowOrder/@Model.OrderSum">پرداخت فاکتور</a>
+                                </div>
+                            }
+                            else
+                            {
+                                <div class="d-flex flex-column">
+                                    <a class="btn btn-success disabled" href="/UserPannel/Payment/@Model.OrderSum">شارژ کیف پول </a>
+                                </div>
+                                <div class="btn">
+                                    <a class="btn btn-warning" href="/UserPannel/ShowOrder/@Model.OrderSum">پرداخت فاکتور</a>
+                                </div>
+                            }
+                        </div>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+@section Scripts{
+    @if (TempData["Success"] != null)
+    {
+        <script>
+            Swal.fire({
+                icon: "sucess",
+                title: "فاکتور شما با موفقیت پرداخت شد",
+            });
+        </script>
+    }
+}

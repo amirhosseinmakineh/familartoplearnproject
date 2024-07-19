@@ -1,0 +1,29 @@
+﻿@using Toplearn.ApplicationService.Contract.Dtos;
+@{
+    Layout = null;
+}
+@model List<MainCourseDto>
+<main id="home-page">
+    <div class="container">
+        <section class="terms-items">
+            <header>
+                <h2> آخرین دوره های تاپ لرن </h2>
+                <a href=""> مشاهده همه دوره ها </a>
+            </header>
+            <div class="row">
+                    @foreach (var course in Model)
+                    {
+                    <div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 term-col">
+                        <article>
+                            <a href="/CourseInformation?id=@course.Id" class="img-layer"><img style="height: 150px" src="/CourseImage/@course.CourseImage"></a>
+                            <h2><a href="/CourseInformation?id=@course.Id"> @course.CourseTitle </a></h2>
+                            <span>@((course.CoursePrice == 0) ? "رایگان" : course.CoursePrice.ToString("#,0"))</span>
+                            <i>@course.CourseDuration</i>
+                        </article>
+                    </div>
+                    }
+            </div>
+        </section>
+    </div>
+</main>
+

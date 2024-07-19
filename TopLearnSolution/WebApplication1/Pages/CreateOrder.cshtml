@@ -1,0 +1,32 @@
+﻿@page
+@model WebApplication1.Pages.CreateOrderModel
+@{
+}
+@section Scripts{
+    @if (TempData["IsAuth"] != null)
+    {
+        <script>
+            Swal.fire({
+                icon: "error",
+                title: "جهت ثبت دوره لطفا در سایت لاگین کنید",
+            });
+            setInterval(function () {
+                window.location.href = "/LoginUser",
+                    50000
+            });
+        </script>
+    }
+    @if (TempData["Success"] != null)
+    {
+        <script>
+            Swal.fire({
+                icon: "success",
+                title: "دروه مورد نظر با موفقیت ثبت نام شد ",
+            });
+            setInterval(function () {
+                window.location.href = "/Index",
+                    50000
+            });
+        </script>
+    }
+}

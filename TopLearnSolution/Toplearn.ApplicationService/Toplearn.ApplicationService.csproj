@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CoreCompat.System.Drawing.v2" Version="5.2.0-preview1-r131" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.Cookies" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authorization" Version="8.0.6" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+	  <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor" Version="1.1.0" />
+	  <PackageReference Include="Microsoft.AspNetCore.Mvc.ViewFeatures" Version="1.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Toplearn.ApplicationService.Contract\Toplearn.ApplicationService.Contract.csproj" />
+    <ProjectReference Include="..\Toplearn.InfraStructure\Toplearn.InfraStructure.csproj" />
+	  <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.0" />
+  </ItemGroup>
+
+</Project>

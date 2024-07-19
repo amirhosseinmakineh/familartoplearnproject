@@ -1,0 +1,201 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebApplication1
+build_property.RootNamespace = WebApplication1
+build_property.ProjectDir = D:\Backend\toplearnAsp.NetCoreAdvance\TopLearnSolution\WebApplication1\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Backend\toplearnAsp.NetCoreAdvance\TopLearnSolution\WebApplication1
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Areas/UserPannel/Views/Home/ChangeUserPannelPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclBhbm5lbFxWaWV3c1xIb21lXENoYW5nZVVzZXJQYW5uZWxQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Areas/UserPannel/Views/Home/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclBhbm5lbFxWaWV3c1xIb21lXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Areas/UserPannel/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclBhbm5lbFxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Areas/UserPannel/Views/Home/ShowOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclBhbm5lbFxWaWV3c1xIb21lXFNob3dPcmRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Areas/UserPannel/Views/Home/UserWallet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclBhbm5lbFxWaWV3c1xIb21lXFVzZXJXYWxsZXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Areas/UserPannel/Views/Shared/_SideBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclBhbm5lbFxWaWV3c1xTaGFyZWRcX1NpZGVCYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Areas/UserPannel/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclBhbm5lbFxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Areas/UserPannel/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcVXNlclBhbm5lbFxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/Admin/AdminIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRtaW5JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/Admin/Course/CreateCourse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ291cnNlXENyZWF0ZUNvdXJzZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/Admin/Course/EditCourse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ291cnNlXEVkaXRDb3Vyc2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/Admin/Course/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ291cnNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/Admin/Episod/CreateEpisod.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRXBpc29kXENyZWF0ZUVwaXNvZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/Admin/Episod/EditEpisod.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRXBpc29kXEVkaXRFcGlzb2QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/Admin/Episod/EpisodesForManageCourse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRXBpc29kXEVwaXNvZGVzRm9yTWFuYWdlQ291cnNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/Admin/Episod/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRXBpc29kXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/Admin/Roles/CreateRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUm9sZXNcQ3JlYXRlUm9sZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/Admin/Roles/EditRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUm9sZXNcRWRpdFJvbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/Admin/Roles/GetAllRoles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUm9sZXNcR2V0QWxsUm9sZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/Admin/Users/CreateUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlcnNcQ3JlYXRlVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/Admin/Users/EditUserForAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlcnNcRWRpdFVzZXJGb3JBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/Admin/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/Admin/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cX0FkbWluTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/Admin/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/Admin/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/CategoryComponent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcnlDb21wb25lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/CourseArchive.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlQXJjaGl2ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/CourseComponent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlQ29tcG9uZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/CourseInformation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlSW5mb3JtYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/CreateOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlT3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/ForegetPasswordEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm9yZWdldFBhc3N3b3JkRW1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/LoginUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5Vc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/LogOut.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nT3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/RegisterController.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXJDb250cm9sbGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/Shared/_MainMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9NYWluTWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/Shared/_MetaTags.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9NZXRhVGFncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/Shared/_Styles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9TdHlsZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/SuccessRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VjY2Vzc1JlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Backend/toplearnAsp.NetCoreAdvance/TopLearnSolution/WebApplication1/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-g6ltozs93r
